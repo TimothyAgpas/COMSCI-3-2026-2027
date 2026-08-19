@@ -18,12 +18,12 @@ zodiac sign based only on their year of birth.
 ## Source Code
 
 ```python
-# zodiacSectionLN.py
 # Chinese Zodiac Program
-# Baseline year: 1900
 
+#Ask the user to enter the birth year
 year_of_birth = int(input("Enter your year of birth: "))
 
+#Check the year
 if year_of_birth < 1900:
     print("Invalid year. The year of birth must not be earlier than 1900.")
 else:
