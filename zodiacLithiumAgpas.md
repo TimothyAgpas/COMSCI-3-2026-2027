@@ -56,14 +56,3 @@ else:
 
     print(f"Year of birth: {year_of_birth}")
     print(f"Chinese Zodiac: {zodiac}")
-
-
-
-## Testing
-
-horse
-
-## Output Screenshot
-
-<img width="1024" height="1366" alt="IMG_0217" src="https://github.com/user-attachments/assets/370280b3-5b1f-4f13-9cf3-80a523c40e45" />
-
