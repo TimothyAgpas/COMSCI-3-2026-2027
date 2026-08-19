@@ -8,7 +8,8 @@ zodiac sign based only on their year of birth.
 ## Requirements
 
 1. Ask the user to enter a year of birth.
-2. Use 1900 as the baseline year.
+2. Use 1900 as the baseline year.<img width="1024" height="1366" alt="IMG_0217" src="https://github.com/user-attachments/assets/12c7cc85-7fe7-48d4-8dbf-c80dde3cddb9" />
+
 3. Validate that the year is not earlier than 1900.
 4. Display an appropriate error message for an invalid year.
 5. Determine the Chinese zodiac sign using a 12-year cycle.
