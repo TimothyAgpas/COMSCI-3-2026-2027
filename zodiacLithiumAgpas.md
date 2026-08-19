@@ -57,7 +57,7 @@ else:
     print(f"Year of birth: {year_of_birth}")
     print(f"Chinese Zodiac: {zodiac}")
 
-Test Output
+## Test Output
 Valid input
 input:
 2024
